@@ -1,6 +1,7 @@
 #+TITLE: Readme
 
+Dracula edits made by @helpotters.
 #+html: <p align="center"><img src="./dracula-leaves.png" /></p>
-Photo by <a href="https://unsplash.com/@nahilnaseer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nahil Naseer</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Stock Photo by <a href="https://unsplash.com/@nahilnaseer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nahil Naseer</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 #+html: <p align="center"><img src="./dracula-waves.png" /></p>
-Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
