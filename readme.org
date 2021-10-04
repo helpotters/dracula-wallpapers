@@ -1,7 +1,12 @@
 #+TITLE: Readme
 
-Dracula edits made by @helpotters.
+Dracula edits made by @helpotters. Using #282a36 as base color with color dodge blending-mode for stock photo overlays.
 #+html: <p align="center"><img src="./dracula-leaves.png" /></p>
+Used #282a36 as base color with color dodge blending-mode for stock photo overlay.
 Stock Photo by <a href="https://unsplash.com/@nahilnaseer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nahil Naseer</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 #+html: <p align="center"><img src="./dracula-waves.png" /></p>
+Used #282a36 as base color with color dodge blending-mode for stock photo overlay.
 Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+#+html: <p align="center"><img src="./dracula-pink-wave.png" /></p>
+Used #ff79c6 as base color with soft light blending-mode for stock photo overlay.
+Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pawel Czerwinski</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
