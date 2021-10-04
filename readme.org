@@ -1,17 +1,67 @@
 #+TITLE: Readme
 
-Dracula edits made by @helpotters. Using #282a36 as base color with color dodge blending-mode for stock photo overlays.
-#+html: <p align="center"><img src="./dracula-leaves.png" /></p>
-Used #282a36 as base color with color dodge blending-mode for stock photo overlay.
-#+html: <p align="center"><img src="./dracula-dark-blue-leaves.png" /></p>
-Used #6272a4 as base color with multiply blending-mode for stock photo overlay.
-Stock Photo by <a href="https://unsplash.com/@nahilnaseer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nahil Naseer</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-#+html: <p align="center"><img src="./dracula-waves.png" /></p>
-Used #282a36 as base color with color dodge blending-mode for stock photo overlay.
-Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-#+html: <p align="center"><img src="./dracula-pink-wave.png" /></p>
-Used #ff79c6 as base color with soft light blending-mode for stock photo overlay.
-Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Pawel Czerwinski</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-#+html: <p align="center"><img src="./dracula-pink-wave.png" /></p>
-Used #ff79c6 as base color with soft light blending-mode for stock photo overlay.
-Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Here are some 3440x1440 dracula themed wallpapers. I sourced photos from unsplash and used Photopea to make color edits to match the color palette listed in the [[https:draculatheme.com/contribute][dracula-theme]] website.
+Feel free to contribute or make requests! Let me know if there are any issues.
+* Waves
+#+html: <p align="center"><img src="./dracula-waves-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./dracula-waves-6272a4.png" /></p>
+#+html: <p align="center"><img src="./dracula-waves-44475a.png" /></p>
+#+html: <p align="center"><img src="./dracula-waves-bd93f9.png/" /></p>
+** Colors applied
+6272a4
+282a36
+ff79c6
+bd93f9
+** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Softwaves
+#+html: <p align="center"><img src="./dracula-soft-waves-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./dracula-soft-waves-6272a4.png" /></p>
+#+html: <p align="center"><img src="./dracula-soft-waves-44475a.png" /></p>
+#+html: <p align="center"><img src="./dracula-soft-waves-bd93f9.png/" /></p>
+** Colors applied
+6272a4
+282a36
+ff79c6
+bd93f9
+** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* Leaves
+#+html: <p align="center"><img src="./dracula-leaves-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./dracula-leaves-6272a4.png" /></p>
+#+html: <p align="center"><img src="./dracula-leaves-44475a.png" /></p>
+#+html: <p align="center"><img src="./dracula-leaves-bd93f9.png/" /></p>
+** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- Stock Photo by <a href="https://unsplash.com/@nahilnaseer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nahil Naseer</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+- Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+* NEXT Succulents (not active)
+#+html: <p align="center"><img src="./dracula-succulents-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./dracula-succulents-6272a4.png" /></p>
+#+html: <p align="center"><img src="./dracula-succulents-44475a.png" /></p>
+#+html: <p align="center"><img src="./dracula-succulents-bd93f9.png/" /></p>
+** Credits
+- Color palette by Dracula Team
+- Edits by @helpotters
+- Photo by <a href="https://unsplash.com/@yespanioly?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yousef Espanioly</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+* Spooky Minimal
+#+html: <p align="center"><img src="./spooky-minimal-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal-6272a4.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal-44475a.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal-bd93f9.png/" /></p>
+** Colors applied
+6272a4
+282a36
+ff79c6
+bd93f9
+** Credits
+- Color palette by Dracula Team
+- Edits by @helpotters
+- <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
