@@ -3,10 +3,10 @@
 Here are some 3440x1440 dracula themed wallpapers. I sourced photos from unsplash and used Photopea to make color edits to match the color palette listed in the [[https:draculatheme.com/contribute][dracula-theme]] website.
 Feel free to contribute or make requests! Let me know if there are any issues.
 * Spooky Minimal
-#+html: <p align="center"><img src="./spooky-minimal/spooky-minimal-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/spooky-minimal-6272a4.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/spooky-minimal-44475a.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/spooky-minimal-bd93f9.png/" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-6272a4.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
 ** Colors applied
 6272a4
 282a36
