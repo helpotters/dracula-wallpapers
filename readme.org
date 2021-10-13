@@ -9,12 +9,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-bd93f9.png/" /></p>
 *** Colors applied
-| Palette    | Hex       | RGB           | HSL             | [[https://draculatheme.com/static/img/color-boxes/eyedropper.png]] |
-|------------+-----------+---------------+-----------------+-------------------------------------------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[https://draculatheme.com/static/img/color-boxes/background.png]] |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[https://draculatheme.com/static/img/color-boxes/comment.png]]    |
-| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[https://draculatheme.com/static/img/color-boxes/pink.png]]       |
-| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[https://draculatheme.com/static/img/color-boxes/purple.png]]     |
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -28,12 +28,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
 *** Colors applied
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -47,12 +47,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-bd93f9.png/" /></p>
 *** Colors applied
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -66,12 +66,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
 *** Colors applied
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
 - Color palette by Dracula Team
 - Edits by @helpotters
@@ -84,12 +84,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./leaves/dracula-leaves-44475a.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-bd93f9.png/" /></p>
 ** Colors applied
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -102,13 +102,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-44475a.png" /></p>
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-bd93f9.png/" /></p>
 ** Colors applied
-#+html: ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -119,12 +118,12 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./waves/dracula-waves-44475a.png" /></p>
 #+html: <p align="center"><img src="./waves/dracula-waves-bd93f9.png/" /></p>
 ** Colors applied
-#+begin_export: html
-- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
-- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
-- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
-#+end_export
+| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+----------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
