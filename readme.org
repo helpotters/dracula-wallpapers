@@ -8,10 +8,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-bd93f9.png/" /></p>
-- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
-- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
-- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
+*** Colors applied
+| Palette    | Hex       | RGB           | HSL             | [[https://draculatheme.com/static/img/color-boxes/eyedropper.png]] |
+|------------+-----------+---------------+-----------------+-------------------------------------------------------------------|
+| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[https://draculatheme.com/static/img/color-boxes/background.png]] |
+| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[https://draculatheme.com/static/img/color-boxes/comment.png]]    |
+| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[https://draculatheme.com/static/img/color-boxes/pink.png]]       |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[https://draculatheme.com/static/img/color-boxes/purple.png]]     |
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -24,10 +27,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
-- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
-- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
-- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
+*** Colors applied
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -40,10 +46,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-bd93f9.png/" /></p>
-- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
-- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
-- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
+*** Colors applied
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -57,57 +66,30 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
 *** Colors applied
-- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
-- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
-- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
-- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 *** Credits
 - Color palette by Dracula Team
 - Edits by @helpotters
 - Source Material:
   + Artist: [[https://www.freepik.com/freepik][@freepik]]
   + Source: [[https://www.freepik.com/free-vector/hand-drawn-flat-halloween-background_17808079.htm#page=1&query=halloween%20background&position=5&from_view=search][Freepik]]
-** TODO Misty Forest :ignore:
-*** TODO Credits
-- Freepik free
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Source Material:
-  + Artist: [[https://www.freepik.com/jcomp][@jcomp]]
-  + Source: [[https://www.freepik.com/free-vector/misty-landscape-with-fog-pine-forest-mountain-slopes-illustration-nature-scene_12953515.htm][Freepik]]
-
-** TODO Halloween Moon Night :ignore:
-*** Credits
-- Freepik free
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Source Material:
-  + Artist: [[https://www.freepik.com/macrovector][@macrovector]]
-  + Source: [[https://www.freepik.com/free-vector/halloween-night-moon-composition-with-glowing-pumpkins-vintage-castle-bats-flying-cemetery-flat_10346792.htm#page=1&position=15&from_view=user][Freepik]]
-
-** TODO Leaves on Black :ignore:
-*** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Source Material:
-  + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
-  + Source: [[https://www.freepik.com/free-vector/oriental-leaves-gold-detailed-frame-black-vector_18716998.htm#page=1&position=7&from_view=user][Freepik]]
-** TODO Smooth like Butterfly :ignore:
-*** Credits
-- Freepik free
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Source Material:
-  + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
-  + Source: [[https://www.freepik.com/free-vector/ink-butterfly-background-line-art-pattern-design-vector_18716733.htm#page=1&position=8&from_view=user][Freepik]]
-- Color palette by Dracula Team
-- Edits by @helpotters
-- <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
 * Leaves
 #+html: <p align="center"><img src="./leaves/dracula-leaves-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-6272a4.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-44475a.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-bd93f9.png/" /></p>
+** Colors applied
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -120,10 +102,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-44475a.png" /></p>
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-bd93f9.png/" /></p>
 ** Colors applied
-6272a4
-282a36
-ff79c6
-bd93f9
+#+html: ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -134,46 +119,13 @@ bd93f9
 #+html: <p align="center"><img src="./waves/dracula-waves-44475a.png" /></p>
 #+html: <p align="center"><img src="./waves/dracula-waves-bd93f9.png/" /></p>
 ** Colors applied
-6272a4
-282a36
-ff79c6
-bd93f9
+#+begin_export: html
+- ![#ff79c6](https://via.placeholder.com/15/ff79c6/000000?text=+) `#ff79c6`
+- ![#6272a4](https://via.placeholder.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#282a36](https://via.placeholder.com/15/282a36/000000?text=+) `#282a36`
+- ![#bd93f9](https://via.placeholder.com/15/bd93f9/000000?text=+) `#bd93f9`
+#+end_export
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
 - Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* TODO Maps
-** Portolans
-*** Art Storage 986 :ignore:
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-*** Art Storage 1980 158 :ignore:
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-*** Art Storage 11 1665
-#+html: <p align="center"><img src="./maps/portolans/dracula-portolans-6272a4.png" /></p>
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-** Wikimedia :ignore:
-*** Carte de La Nouvelle-France
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- AnonymousUnknown author, Public domain, via Wikimedia Commons
-  + [[https://commons.wikimedia.org/wiki/File:Carte_de_La_Nouvelle-France_du_XVIIe_si%C3%A8cle_d%C3%A9di%C3%A9e_%C3%A0_Colbert.jpg][Wikimedia Link]]
-*** Mercator 1569
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Gerardus Mercator, Public domain, via Wikimedia Commons
-  + [[https://upload.wikimedia.org/wikipedia/commons/b/b2/Mercator_1569.png][Wikimedia Link]]
-*** Track of the Endeavour
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Unknown; Admiralty map, Public domain, via Wikimedia Commons
-  + [[https://upload.wikimedia.org/wikipedia/commons/9/95/Track_of_Endeavour.jpg][Wikimedia Link]]
-***
