@@ -92,7 +92,7 @@ bd93f9
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_18247709.htm#page=1&position=1&from_view=user][Freepik]]
-** TODO Misty Forest
+** TODO Misty Forest :noexport:
 *** TODO Credits
 - Freepik free
 - Edits by @helpotters
@@ -101,7 +101,7 @@ bd93f9
   + Artist: [[https://www.freepik.com/jcomp][@jcomp]]
   + Source: [[https://www.freepik.com/free-vector/misty-landscape-with-fog-pine-forest-mountain-slopes-illustration-nature-scene_12953515.htm][Freepik]]
 
-** TODO Halloween Moon Night
+** TODO Halloween Moon Night :noexport:
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -110,14 +110,14 @@ bd93f9
   + Artist: [[https://www.freepik.com/macrovector][@macrovector]]
   + Source: [[https://www.freepik.com/free-vector/halloween-night-moon-composition-with-glowing-pumpkins-vintage-castle-bats-flying-cemetery-flat_10346792.htm#page=1&position=15&from_view=user][Freepik]]
 
-** TODO Leaves on Black
+** TODO Leaves on Black :noexport:
 *** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/oriental-leaves-gold-detailed-frame-black-vector_18716998.htm#page=1&position=7&from_view=user][Freepik]]
-** TODO Smooth like Butterfly
+** TODO Smooth like Butterfly :noexport:
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -127,11 +127,11 @@ bd93f9
   + Source: [[https://www.freepik.com/free-vector/ink-butterfly-background-line-art-pattern-design-vector_18716733.htm#page=1&position=8&from_view=user][Freepik]]
 * TODO Maps
 ** Portolans
-*** Art Storage 986
+*** Art Storage 986 :noexport:
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
-*** Art Storage 1980 158
+*** Art Storage 1980 158 :noexport:
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -140,7 +140,7 @@ bd93f9
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
-** Wikimedia
+** Wikimedia :noexport:
 *** Carte de La Nouvelle-France
 **** Credits
 - Edits by @helpotters
