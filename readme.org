@@ -40,7 +40,7 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_18247709.htm#page=1&position=1&from_view=user][Freepik]]
 ** Spooky Minimal
-** TODO Misty Forest :noexport:
+** TODO Misty Forest :ignore:
 *** TODO Credits
 - Freepik free
 - Edits by @helpotters
@@ -49,7 +49,7 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/jcomp][@jcomp]]
   + Source: [[https://www.freepik.com/free-vector/misty-landscape-with-fog-pine-forest-mountain-slopes-illustration-nature-scene_12953515.htm][Freepik]]
 
-** TODO Halloween Moon Night :noexport:
+** TODO Halloween Moon Night :ignore:
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -58,14 +58,14 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/macrovector][@macrovector]]
   + Source: [[https://www.freepik.com/free-vector/halloween-night-moon-composition-with-glowing-pumpkins-vintage-castle-bats-flying-cemetery-flat_10346792.htm#page=1&position=15&from_view=user][Freepik]]
 
-** TODO Leaves on Black :noexport:
+** TODO Leaves on Black :ignore:
 *** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/oriental-leaves-gold-detailed-frame-black-vector_18716998.htm#page=1&position=7&from_view=user][Freepik]]
-** TODO Smooth like Butterfly :noexport:
+** TODO Smooth like Butterfly :ignore:
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -127,11 +127,11 @@ bd93f9
 - Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * TODO Maps
 ** Portolans
-*** Art Storage 986 :noexport:
+*** Art Storage 986 :ignore:
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
-*** Art Storage 1980 158 :noexport:
+*** Art Storage 1980 158 :ignore:
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -140,7 +140,7 @@ bd93f9
 **** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
-** Wikimedia :noexport:
+** Wikimedia :ignore:
 *** Carte de La Nouvelle-France
 **** Credits
 - Edits by @helpotters
