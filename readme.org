@@ -57,10 +57,10 @@ bd93f9
 - Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * Illustrations [0/4]
 ** Cat and Bats
-#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-6272a4.png" /></p>
-#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-44475a.png" /></p>
-#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-bd93f9.png/" /></p>
+#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-6272a4.png" /></p>
+#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-44475a.png" /></p>
+#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-bd93f9.png/" /></p>
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -69,10 +69,10 @@ bd93f9
   + Artist: [[https://www.freepik.com/freepik][@freepik]]
   + Source: [[https://www.freepik.com/free-vector/hand-drawn-halloween-background_18038680.htm#page=1&position=4&from_view=user][Freepik]]
 ** Trees and Mountains
-#+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-6272a4.png" /></p>
-#+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-44475a.png" /></p>
-#+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
+#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-6272a4.png" /></p>
+#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-44475a.png" /></p>
+#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -81,10 +81,10 @@ bd93f9
   + Artist: [[https://www.freepik.com/brgfx][@brgfx]]
   + Source: [[https://www.freepik.com/free-vector/silhouette-twilight-forest-landscape-background_18680141.htm#page=1&position=37&from_view=detail#&position=37&from_view=detail][Freepik]]
 ** Little Solar
-#+html: <p align="center"><img src="./galaxy/dracula-galaxy-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./galaxy/dracula-galaxy-6272a4.png" /></p>
-#+html: <p align="center"><img src="./galaxy/dracula-galaxy-44475a.png" /></p>
-#+html: <p align="center"><img src="./galaxy/dracula-galaxy-bd93f9.png/" /></p>
+#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-6272a4.png" /></p>
+#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-44475a.png" /></p>
+#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-bd93f9.png/" /></p>
 *** Credits
 - Freepik free
 - Edits by @helpotters
