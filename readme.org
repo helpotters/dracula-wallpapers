@@ -8,6 +8,10 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-bd93f9.png/" /></p>
+- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
+- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
+- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -20,6 +24,10 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
+- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
+- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
+- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -32,6 +40,10 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-6272a4.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-bd93f9.png/" /></p>
+- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
+- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
+- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -40,6 +52,21 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_18247709.htm#page=1&position=1&from_view=user][Freepik]]
 ** Spooky Minimal
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-6272a4.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
+*** Colors applied
+- ![#ff79c6](https://dracula.github.com/15/f03c15/000000?text=+) `#ff79c6`
+- ![#6272a4](https://dracula.github.com/15/c5f015/000000?text=+) `#6272a4`
+- ![#6272a4](https://dracula.github.com/15/6272a4/000000?text=+) `#6272a4`
+- ![#bd93f9](https://dracula.github.com/15/bd93f9/000000?text=+) `#bd93f9`
+*** Credits
+- Color palette by Dracula Team
+- Edits by @helpotters
+- Source Material:
+  + Artist: [[https://www.freepik.com/freepik][@freepik]]
+  + Source: [[https://www.freepik.com/free-vector/hand-drawn-flat-halloween-background_17808079.htm#page=1&query=halloween%20background&position=5&from_view=search][Freepik]]
 ** TODO Misty Forest :ignore:
 *** TODO Credits
 - Freepik free
@@ -73,16 +100,6 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/ink-butterfly-background-line-art-pattern-design-vector_18716733.htm#page=1&position=8&from_view=user][Freepik]]
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-6272a4.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
-** Colors applied
-6272a4
-282a36
-ff79c6
-bd93f9
-** Credits
 - Color palette by Dracula Team
 - Edits by @helpotters
 - <a href='https://www.freepik.com/vectors/background'>Background vector created by freepik - www.freepik.com</a>
