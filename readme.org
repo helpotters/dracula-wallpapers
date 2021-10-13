@@ -55,41 +55,19 @@ bd93f9
 - Edits by @helpotters
 - Color palette by Dracula Team
 - Stock Photo by <a href="https://unsplash.com/@a2eorigins?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Perez</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* NEXT Maps
-** Portolans
-*** Art Storage 986
-**** Credits
+* Illustrations [0/4]
+** Cat and Bats
+#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-6272a4.png" /></p>
+#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-44475a.png" /></p>
+#+html: <p align="center"><img src="./cat-and-bats/dracula-cat-bd93f9.png/" /></p>
+*** Credits
+- Freepik free
 - Edits by @helpotters
 - Color palette by Dracula Team
-*** Art Storage 1980 158
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-*** Art Storage 11 1665
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-** Wikimedia
-*** Carte de La Nouvelle-France
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- AnonymousUnknown author, Public domain, via Wikimedia Commons
-  + [[https://commons.wikimedia.org/wiki/File:Carte_de_La_Nouvelle-France_du_XVIIe_si%C3%A8cle_d%C3%A9di%C3%A9e_%C3%A0_Colbert.jpg][Wikimedia Link]]
-*** Mercator 1569
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Gerardus Mercator, Public domain, via Wikimedia Commons
-  + [[https://upload.wikimedia.org/wikipedia/commons/b/b2/Mercator_1569.png][Wikimedia Link]]
-*** Track of the Endeavour
-**** Credits
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Unknown; Admiralty map, Public domain, via Wikimedia Commons
-  + [[https://upload.wikimedia.org/wikipedia/commons/9/95/Track_of_Endeavour.jpg][Wikimedia Link]]
-***
-* NEXT Illustrations
+- Source Material:
+  + Artist: [[https://www.freepik.com/freepik][@freepik]]
+  + Source: [[https://www.freepik.com/free-vector/hand-drawn-halloween-background_18038680.htm#page=1&position=4&from_view=user][Freepik]]
 ** Trees and Mountains
 #+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./trees-and-mountains/dracula-mnt-6272a4.png" /></p>
@@ -114,8 +92,8 @@ bd93f9
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_18247709.htm#page=1&position=1&from_view=user][Freepik]]
-** Misty Forest
-*** Credits
+** TODO Misty Forest
+*** TODO Credits
 - Freepik free
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -123,7 +101,7 @@ bd93f9
   + Artist: [[https://www.freepik.com/jcomp][@jcomp]]
   + Source: [[https://www.freepik.com/free-vector/misty-landscape-with-fog-pine-forest-mountain-slopes-illustration-nature-scene_12953515.htm][Freepik]]
 
-** Halloween Moon Night
+** TODO Halloween Moon Night
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -132,23 +110,14 @@ bd93f9
   + Artist: [[https://www.freepik.com/macrovector][@macrovector]]
   + Source: [[https://www.freepik.com/free-vector/halloween-night-moon-composition-with-glowing-pumpkins-vintage-castle-bats-flying-cemetery-flat_10346792.htm#page=1&position=15&from_view=user][Freepik]]
 
-** Leaves on Black
+** TODO Leaves on Black
 *** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/oriental-leaves-gold-detailed-frame-black-vector_18716998.htm#page=1&position=7&from_view=user][Freepik]]
-** Cat and Bats
-*** Credits
-- Freepik free
-- Edits by @helpotters
-- Color palette by Dracula Team
-- Source Material:
-  + Artist: [[https://www.freepik.com/freepik][@freepik]]
-  + Source: [[https://www.freepik.com/free-vector/hand-drawn-halloween-background_18038680.htm#page=1&position=4&from_view=user][Freepik]]
-
-** Smooth like Butterfly
+** TODO Smooth like Butterfly
 *** Credits
 - Freepik free
 - Edits by @helpotters
@@ -156,4 +125,38 @@ bd93f9
 - Source Material:
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/ink-butterfly-background-line-art-pattern-design-vector_18716733.htm#page=1&position=8&from_view=user][Freepik]]
-
+* TODO Maps
+** Portolans
+*** Art Storage 986
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+*** Art Storage 1980 158
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+*** Art Storage 11 1665
+#+html: <p align="center"><img src="./maps/portolans/dracula-portolans-6272a4.png" /></p>
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+** Wikimedia
+*** Carte de La Nouvelle-France
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- AnonymousUnknown author, Public domain, via Wikimedia Commons
+  + [[https://commons.wikimedia.org/wiki/File:Carte_de_La_Nouvelle-France_du_XVIIe_si%C3%A8cle_d%C3%A9di%C3%A9e_%C3%A0_Colbert.jpg][Wikimedia Link]]
+*** Mercator 1569
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- Gerardus Mercator, Public domain, via Wikimedia Commons
+  + [[https://upload.wikimedia.org/wikipedia/commons/b/b2/Mercator_1569.png][Wikimedia Link]]
+*** Track of the Endeavour
+**** Credits
+- Edits by @helpotters
+- Color palette by Dracula Team
+- Unknown; Admiralty map, Public domain, via Wikimedia Commons
+  + [[https://upload.wikimedia.org/wikipedia/commons/9/95/Track_of_Endeavour.jpg][Wikimedia Link]]
+***
