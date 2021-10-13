@@ -6,13 +6,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 ** Cat and Bats
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-6272a4.png" /></p>
-#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-44475a.png" /></p>
+#+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-282a36.png" /></p>
 #+html: <p align="center"><img src="./illustrations/cat-and-bats/dracula-cat-bd93f9.png/" /></p>
 *** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
 |------------+-----------+---------------+-----------------+----------------------------------|
 | Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Grey Blue    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
 | Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
@@ -25,13 +25,13 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 ** Trees and Mountains
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-6272a4.png" /></p>
-#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-44475a.png" /></p>
+#+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-282a36.png" /></p>
 #+html: <p align="center"><img src="./illustrations/trees-and-mountains/dracula-mnt-bd93f9.png/" /></p>
 *** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
 |------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Dark Grey | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Grey Blue    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
 | Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
@@ -42,16 +42,14 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/brgfx][@brgfx]]
   + Source: [[https://www.freepik.com/free-vector/silhouette-twilight-forest-landscape-background_18680141.htm#page=1&position=37&from_view=detail#&position=37&from_view=detail][Freepik]]
 ** Little Solar
-#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-282a36.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-6272a4.png" /></p>
-#+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-44475a.png" /></p>
 #+html: <p align="center"><img src="./illustrations/galaxy/dracula-galaxy-bd93f9.png/" /></p>
 *** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
 |------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
-| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Dark Grey | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Grey Blue    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
 - Freepik free
@@ -61,15 +59,15 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/rawpixel-com][@rawpixel]]
   + Source: [[https://www.freepik.com/free-vector/galaxy-background-vector-space-desktop-wallpaper_18247709.htm#page=1&position=1&from_view=user][Freepik]]
 ** Spooky Minimal
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-ff79c6.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-282a36.png" /></p>
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-6272a4.png" /></p>
-#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-44475a.png" /></p>
+#+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./spooky-minimal/dracula-spooky-bd93f9.png/" /></p>
 *** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
 |------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Dark Grey | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
+| Grey Blue    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
 | Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 *** Credits
@@ -79,16 +77,15 @@ Feel free to contribute or make requests! Let me know if there are any issues.
   + Artist: [[https://www.freepik.com/freepik][@freepik]]
   + Source: [[https://www.freepik.com/free-vector/hand-drawn-flat-halloween-background_17808079.htm#page=1&query=halloween%20background&position=5&from_view=search][Freepik]]
 * Leaves
-#+html: <p align="center"><img src="./leaves/dracula-leaves-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-6272a4.png" /></p>
+#+html: <p align="center"><img src="./leaves/dracula-leaves-6272a4-dark.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-44475a.png" /></p>
 #+html: <p align="center"><img src="./leaves/dracula-leaves-bd93f9.png/" /></p>
 ** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
 |------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
-| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
+| Grey Blue    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+| Light Grey | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/44475a.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 ** Credits
 - Edits by @helpotters
@@ -97,17 +94,17 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 
 - Photo by <a href="https://unsplash.com/@carltraw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carl Raw</a> on <a href="https://unsplash.com/wallpapers/design/pattern?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 * Softwaves
-#+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-ff79c6.png" /></p>
-#+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-6272a4.png" /></p>
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-44475a.png" /></p>
+#+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-6272a4.png" /></p>
+#+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-ff79c6.png" /></p>
 #+html: <p align="center"><img src="./soft-waves/dracula-soft-waves-bd93f9.png/" /></p>
 ** Colors applied
-| Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
-|------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
-| Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
-| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
+| Palette    | Hex       | RGB           | HSL            | [[file:./colors/eyedropper.png]] |
+|------------+-----------+---------------+----------------+------------------------------|
+| Light Grey | `#282a36` | `40 42 54`    | `231° 15% 18%` | [[file:./colors/44475a.png]]     |
+| Grey Blue  | `#6272a4` | `98 114 164`  | `225° 27% 51%` | [[file:./colors/6272a4.png]]     |
+| Pink       | `#282a36` | `40 42 54`    | `231° 15% 18%` | [[file:./colors/ff79c6.png]]     |
+| Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%` | [[file:./colors/bd93f9.png]]     |
 ** Credits
 - Edits by @helpotters
 - Color palette by Dracula Team
@@ -119,9 +116,9 @@ Feel free to contribute or make requests! Let me know if there are any issues.
 #+html: <p align="center"><img src="./waves/dracula-waves-bd93f9.png/" /></p>
 ** Colors applied
 | Palette    | Hex       | RGB           | HSL             | [[file:./colors/eyedropper.png]] |
-|------------+-----------+---------------+-----------------+----------------------------------|
-| Background | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/282a36.png]]     |
-| Comment    | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
+|------------+-----------+---------------+-----------------+------------------------------|
+| Light Grey | `#282a36` | `40 42 54`    | `231° 15% 18%`  | [[file:./colors/44475a.png]]     |
+| Grey Blue  | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | [[file:./colors/6272a4.png]]     |
 | Pink       | `#ff79c6` | `255 121 198` | `326° 100% 74%` | [[file:./colors/ff79c6.png]]     |
 | Purple     | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | [[file:./colors/bd93f9.png]]     |
 ** Credits
